@@ -14,7 +14,7 @@ aria2 下载 + rclone 上传 = Github 离线下载
 [可选配置项](https://github.com/ame-yu/plz-download/tree/main/docs)
 
 # Licence
-本项目基于 GLWTPL (Good Luck With That Public License) 许可证开源。
+本项目基于  GLWTPL (Good Luck With That Public License) 许可证开源。
 
 This project under the [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL)
 
